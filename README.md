@@ -4,7 +4,7 @@
 
 <hr>
 
-# Hack_challenge_3 - hack_html_1 ⚡
+# Hack_challenge_3 - hack_html_1 ⚡💜
 
 | Hack | URL | Detall |
 | ------ | ------ | ------ | 
